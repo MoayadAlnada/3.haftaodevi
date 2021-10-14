@@ -43,3 +43,4 @@
             Sıralı.DataSource = Numbers.OrderBy(s => s).ToList();
         }
     }
+[3.Ödev.zip](https://github.com/MoayadAlnada/3.haftaodevi/files/7349086/3.Odev.zip)
