@@ -39,4 +39,3 @@
             Sıralı.DataSource = Numbers.OrderBy(s => s).ToList();
         }
     }
-}
