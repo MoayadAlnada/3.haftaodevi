@@ -3,14 +3,6 @@
 
 
 
-namespace _3.Ödev_1
-{
-    public partial class Form1 : Form
-    {
-        public Form1()
-        {
-            InitializeComponent();
-            
         }
         private List<int> Numbers = new List<int>();
         private void button1_Click(object sender, EventArgs e)
