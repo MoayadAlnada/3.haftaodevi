@@ -1,4 +1,4 @@
-Ödeviniz Windows Form uygulaması geliştirmek. Bunun için; Textboxa istenilen kadar girilen sayıların sıralamasını yapan bir form uygulaması istenmektedir. Form da bir textbox, 3 buton (sayı Ekle, Küçükten büyüğe ve büyükten küçüğe) ve 2 listbox olacaktır. Her rakamdan sonra sayı ekleye basılır ve listboxa eklenir. Sırala butonlarına basıldığında 2. listbox da gösterilir. Visual Studio 2019 C#
+Ödeviniz Windows Form uygulaması geliştirmek. Bunun için; Textboxa istenilen kadar girilen sayıların sıralamasını yapan bir form uygulaması istenmektedir. Form da bir textbox, 3 buton (sayı Ekle, Küçükten büyüğe ve büyükten küçüğe) ve 2 listbox olacaktır. Her rakamdan sonra sayı ekleye basılır ve listboxa eklenir. Sırala butonlarına basıldığında 2. listbox da gösterilir. Visual Studio 2019 C#.
 ![سء](https://user-images.githubusercontent.com/76546216/137385403-9f00aa32-354a-4f0c-8b52-796d7e867d14.PNG)
 
 
